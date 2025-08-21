@@ -1,5 +1,5 @@
 # 👋Lachlan Henderson (SlushyRH)
-**`Indie Game Developer/Programmer`** **[`slushyrh.dev`](https://slushyrh.dev/)** **[`lrh04.dev`](https://lrh04.dev/)** **[`lachlanhenderson.com`](https://lachlanhenderson.com/)**
+**`Indie Game Developer/Programmer`** <!-- **[`slushyrh.dev`](https://slushyrh.dev/)** **[`lrh04.dev`](https://lrh04.dev/)** **[`lachlanhenderson.com`](https://lachlanhenderson.com/)** -->
 
 ```yaml
 name: Lachlan Henderson
